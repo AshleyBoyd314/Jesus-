@@ -11,3 +11,6 @@ body {
     background-color: lightgrey;
     color: darkslateblue;
 }
+img {
+    width: 30%;
+}
